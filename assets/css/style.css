@@ -197,6 +197,10 @@ section {
     border-color: #39a6b2;
 }
 
+.trainers {
+    text-align: center;
+}
+
 .trainer {
     text-align: center;
     width: 900px;
