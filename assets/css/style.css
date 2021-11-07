@@ -5,12 +5,6 @@
 }
 
 body {
-    /* style that apply to the whole page*/
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: #ffffff;
-}
-
-body {
     /* more on this crazy alphanumerical value in a minute! */
     /* I'm a CSS comment! */
     color: #39a6b2;
