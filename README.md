@@ -1,14 +1,20 @@
+<<<<<<< HEAD
 # Run Buudy Inc.
+=======
+# Run Buddy, Inc
+>>>>>>> 25d8ccb6d999d2da5bfee56530afcf97e47956b2
 
 ## Purpose
 A website that offers fitness training services. 
 
-## Built With 
+## Built With
 * HTML
-*CSS
+* CSS
 
-# Website
-https://github.com/mgall13/run-buddy.git
+## Website
+https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Mario Gallardo 
+Made with ❤️ by [your name]
+
+### ©️2019 Run Buddy, Inc 
