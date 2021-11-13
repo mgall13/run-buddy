@@ -45,10 +45,10 @@
         <div>
             <h3>Get Started Today</h3>
             <p>Fill out this form and one of our trainers will schedule a consult</p>   
-        <!-- Add form element -->
+            <!-- Add form element -->
             <form>
-            </div>
-
+        </div>
+        
                 <label for="name">Enter full name</label>
                 <input type="text" placeholder="Your Name" name="name" id="name" class="form-input">
 
@@ -60,16 +60,20 @@
 
                 <p>
                     Have you worker out with a trainer before?
-                    <input type="radio" name="trainer-confirm" id="trainer-yes" />
-                    <label for="trainer-yes">Yes</label>
-                    <input type="radio" name="trainer-confirm" id="trainer no" />
-                    <label for="trainer-no">No</label>
+                    <span class="radio-wrapper">
+                        <input type="radio" name="trainer-confirm" id="trainer-yes" />
+                        <label for="trainer-yes">Yes</label>
+                    </span>
+                    <span class="radio-wrapper">
+                        <input type="radio" name="trainer-confirm" id="trainer no" />
+                        <label for="trainer-no">No</label>
+                    </span>
                 </p>
                 <p>
-                    <label for ="checkbox" >
-                     I acknowledge that I am least 18 years of age.
-                    </label>
-                    <input type="checkbox" name="age-confirm" id="checkbox" />
+                    <span class="checkbox-wrapper">
+                        <input type="checkbox" name="age-confirm" id="checkbox" />
+                        <label for ="checkbox">I acknowledge that I am least 18 years of age.</label>
+                    </span>
                 </p>
                 <button type="submit">
                 Get Running!
@@ -164,7 +168,7 @@
                     <h3 class="trainer-name">Arron Stephens</h3>
                     <h4 class="trainer-role">Speed / Strength</h4>
                     <p>
-                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati consequuntur soluta inventore blanditiis aspernatur laboriosam, autem tempore. Ipsa eius fuga harum fugit saepe quas delectus exercitationem possimus iure omnis!
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati consequuntur soluta inventore blanditiis aspernatur laboriosam, autem tempore. Ipsa eius fuga harum fugit saepe quas delectus exercitationem possimus iure omnis!
                     </p>
                 </div> 
             </article>   
