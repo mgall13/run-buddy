@@ -1,0 +1,7 @@
+[core]
+	editor = \"C:\\Users\\mario\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code.cmd\" --wait
+[init]
+	defaultBranch = main
+[user]
+	email = mariogallardo1331@yahoo.com
+	name = Kyro
